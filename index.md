@@ -11,7 +11,8 @@ Corresponding clean speech files are included for each example.
 **WHAMVox easy** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_easy.zip).   
 **WHAMVox hard** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_hard.zip).  
 
-Metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/audatic-team/WHAMVox/tree/master/WHAMVox_test.csv). A zipfile containing the URL of each YouTube video from which each speech sample was taken along with timestamps for utterances can be downloaded [here](https://github.com/audatic-team/WHAMVox/tree/master/speech_url_time_stamps.zip). The frame number assumes that the video is saved at 25fps.  
+Metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/audatic-team/WHAMVox/tree/master/WHAMVox_test.csv). A zipfile containing the URL of each YouTube video from which each speech sample was taken along with timestamps for utterances can be downloaded <a href="https://github.com/audatic-team/WHAMVox/tree/master/speech_url_time_stamps.zip" download>here</a>. The frame number assumes that the video is saved at 25fps.  
+
 
 For more details about how the files were selected, please see the ipython notebook [analyses.ipnb](https://github.com/audatic-team/WHAMVox/tree/master/analyses.ipynb).   
 
