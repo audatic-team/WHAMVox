@@ -11,9 +11,9 @@ Corresponding clean speech files are included for each example.
 **WHAMVox easy** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_easy.zip).   
 **WHAMVox hard** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_hard.zip).  
 
-Metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv). A zipfile containing the URL of each YouTube video from which each speech sample was taken along with timestamps for utterances can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/speech_url_time_stamps.zip). The frame number assumes that the video is saved at 25fps.  
+Metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/audatic-team/WHAMVox/tree/master/WHAMVox_test.csv). A zipfile containing the URL of each YouTube video from which each speech sample was taken along with timestamps for utterances can be downloaded [here](https://github.com/audatic-team/WHAMVox/tree/master/speech_url_time_stamps.zip). The frame number assumes that the video is saved at 25fps.  
 
-For more details about how the files were selected, please see the ipython notebook [analyses.ipnb](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/analyses.ipynb).   
+For more details about how the files were selected, please see the ipython notebook [analyses.ipnb](https://github.com/audatic-team/WHAMVox/tree/master/analyses.ipynb).   
 
 ## Dataset Statistics
 <p float="left">
@@ -24,7 +24,7 @@ For more details about how the files were selected, please see the ipython noteb
   
 ## Code
 
-Code and instructions to recreate or modify the test datasets is available on our corresponding [Github page](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox). Please follow the instructions in the [README](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/README.md). 
+Code and instructions to recreate or modify the test datasets is available on our corresponding [Github page](https://github.com/audatic-team/WHAMVox/tree/master). Please follow the instructions in the [README](https://github.com/audatic-team/WHAMVox/tree/master/README.md). 
 
 ## Citation
 WHAMVox was compiled by [Audatic](https://audatic.ai/). 
@@ -32,8 +32,9 @@ If you make use of this dataset please cite our corresponding [paper](<arxive>).
 
 **Restoring speech intelligibility for hearing aid users with deep learning**  
 Peter Udo Diehl, Yosef Singer, Hannes Zilly, Uwe Schönfeld, Paul Meyer-Rachner, Mark Berry, Henning Sprekeler, Elias Sprengel, Annett Pudszuhn, Veit M. Hofmann  
+[pdf](<arxive>)  
 
-## References
+## References  
 
 \[1]  J. S. Chung*, A. Nagrani*, A. Zisserman  
 [VoxCeleb2: Deep Speaker Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf)  
