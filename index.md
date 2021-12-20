@@ -1,8 +1,8 @@
 # The WHAMVox Dataset
 
 WHAMVox contains two subsets, each with 1940 files:  
-- **WHAMVox easy** covering the SNR range -20dB to 20dB SNR.  
-- **WHAMVox hard** covering the SNR range -27dB to 12dB SNR.  
+- **WHAMVox easy** covering the SNR range -12dB to 27dB SNR.  
+- **WHAMVox hard** covering the SNR range -20dB to 20dB SNR.  
 
 Each sound file consists of mixed speech from the [VoxCeleb2](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) \[1] 
 and noise from the [WHAM!](https://wham.whisper.ai/) \[2] test datasets. 
